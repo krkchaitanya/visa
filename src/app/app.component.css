@@ -1,3 +1,5 @@
-.container{
-    margin-top: 120px!important;
+.container-fluid{
+    margin-top: 80px!important;
+    min-height: 700px;
+    opacity: 0.9;
 }
